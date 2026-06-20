@@ -5,8 +5,10 @@
 A research project completed during the **Lingfeng Summer Research Program 2023** at
 **Xiamen University** (research conducted and report written in July 2023).
 
-📄 **[Read the full report (PDF)](Summer_Ozone_Pollution_Xiamen_2023.pdf)** — 38 pages
+Swedish below:
+Analyserade marknära O₃ och dess samspel med PM10 och PM2.5. Resultaten identifierade behov av scenariobaserade åtgärder för att minska påverkan från O₃ och dess prekursorer.
 
+📄 **[Read the full report (PDF)](Summer_Ozone_Pollution_Xiamen_2023.pdf)** — 38 pages
 ---
 
 ## Overview
